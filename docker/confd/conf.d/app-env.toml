@@ -1,0 +1,5 @@
+[template]
+src = "app-env.tmpl"
+dest = "/var/www/html/.env"
+owner = "www-data"
+mode = "0644"
